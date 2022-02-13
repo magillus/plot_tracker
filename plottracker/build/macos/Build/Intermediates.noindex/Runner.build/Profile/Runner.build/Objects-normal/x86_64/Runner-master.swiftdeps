@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "a4a403bdde4144706e008de51b2a7e16294521111299e750d5f9535b87782b48"
+build_start_time: [1644761696, 402014017]
+build_end_time: [1644761701, 921064853]
+inputs:
+  "/Users/magillus/Projects/private/plottracker/macos/Flutter/GeneratedPluginRegistrant.swift": [1644761671, 106012105]
+  "/Users/magillus/Projects/private/plottracker/macos/Runner/AppDelegate.swift": [1629411632, 642871379]
+  "/Users/magillus/Projects/private/plottracker/macos/Runner/MainFlutterWindow.swift": [1629411632, 644957542]
